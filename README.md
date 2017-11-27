@@ -1,7 +1,7 @@
 # KiCadDDM
 KiCad Design Data Management (This tool suite is still at concept state). 
 
-
+Update Nov17 - [Kipartman] (https://github.com/turdusmerula/kipartman) by @turdusmerula  has many of the key components of this suite. I am collaborating with Simon to extend and support the tool to hopefully be a part of this vision in the 
 
 The vision for KiCadDDM is a suite of tools to enable the management and usefullness, improve workflow of schematic, component inventory  and pcb, through the smart use of the Electronic Design Data
 
