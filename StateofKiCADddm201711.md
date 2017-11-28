@@ -9,6 +9,11 @@
 ---
 Would be great if the status of parts in our inventory could be listed plus access a tools for component  
 management (Such as KIPARTMAN ) and our MRP system (such as Odoo)       
-# PROPOSED ADD using extended KiCAD component selection
- ![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/image2.png) / 
-# PROPOSED EDIT VALUE/FOOTPRINT/PARAMETERS using extended KiCAD component properties
+# PROPOSED ADD COMPONENT
+using "extended KiCAD component selection"
+
+ ![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/image2.png)  
+# PROPOSED EDIT VALUE/FOOTPRINT/PARAMETERS 
+using extended KiCAD component properties
+![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/KiCadEEschemaComponentPropertiesDDMextension.mp4)
+
