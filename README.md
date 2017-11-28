@@ -23,4 +23,8 @@ The tool suite extends the following KiCAD EESCHEMA dialogs or interfaces
  - key metric visibility
  - Git based version control
  
-KiCADddm is copyright 2017 of BSFE (Black Sheep Farm Enterprises), Waipu,  New Zealand
+KiCADddm is 
+Copyright (c) 2017 Anthony Uphof of BSFE (Black Sheep Farm Enterprises), Waipu,  New Zealand and Contributors
+All Rights Reserved
+
+KiCADddm is licenced under the GNU General Public License v3.0
