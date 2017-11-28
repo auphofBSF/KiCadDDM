@@ -1,7 +1,7 @@
 # KiCadDDM
 KiCad Design Data Management (This tool suite is still at concept stage). 
 
-Update Nov17 - [Kipartman] (https://github.com/turdusmerula/kipartman) *by @turdusmerula  has many of the key components of this suite. I am collaborating with Sebastien to extend and support the tool to hopefully be a part or to be this vision*
+Update Nov17 - [Kipartman] (https://github.com/turdusmerula/kipartman) *by @turdusmerula  has many of the key components of this suite. I am collaborating with Sebastien to extend and support Kipartman to hopefully be a part of this vision. It is possibly Kipartman may be this vision*
 
 ---
 # The vision
