@@ -1,7 +1,7 @@
 # KiCadDDM
 KiCad Design Data Management (This tool suite is still at concept state). 
 
-Update Nov17 - [Kipartman] (https://github.com/turdusmerula/kipartman) *by @turdusmerula  has many of the key components of this suite. I am collaborating with Simon to extend and support the tool to hopefully be a part or be this vision*
+Update Nov17 - [Kipartman] (https://github.com/turdusmerula/kipartman) *by @turdusmerula  has many of the key components of this suite. I am collaborating with Sebastien to extend and support the tool to hopefully be a part or to be this vision*
 
 ---
 # The vision
@@ -23,3 +23,4 @@ The tool suite extends the following KiCAD EESCHEMA dialogs or interfaces
  - key metric visibility
  - Git based version control
  
+KiCADddm is copyright 2017 of BSFE (Black Sheep Farm Enterprises), Waipu,  New Zealand
