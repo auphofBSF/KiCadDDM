@@ -15,5 +15,5 @@ using "extended KiCAD component selection"
  ![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/image2.png)  
 # PROPOSED EDIT VALUE/FOOTPRINT/PARAMETERS 
 using extended KiCAD component properties
-![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/KiCadEEschemaComponentPropertiesDDMextension.mp4)
+![](https://github.com/auphofBSF/KiCadDDM/blob/master/media/KiCadEEschemaComponentPropertiesDDMextension.gif)
 
